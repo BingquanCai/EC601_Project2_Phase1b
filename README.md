@@ -79,4 +79,4 @@ Response
 }
 ```
 
-A response value to the sentence of 0.6 score indicates a document which is relatively positive in emotion, while the value of 1.3 indicates a slightly emotional document. In particular， the first sentence of the sentence contains a very high positive score of 0.9.
+A response value to the sentence of 0.6 score indicates a document which is relatively positive in emotion, while the value of 1.3 indicates a slightly emotional document. In particular, the first sentence of the sentence contains a very high positive score of 0.9.
